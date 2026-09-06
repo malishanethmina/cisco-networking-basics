@@ -98,3 +98,7 @@ PC1 was used to test connectivity to the router, PC2 and PC3 using the `ping` co
 #### Packet Tracer File
 
 `small-office-network.pkt`
+
+## Network Topology
+
+![Small Office Network](small-office-network.png/small-office-network.png)
